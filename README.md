@@ -22,7 +22,7 @@
   
 - [Abrindo o Código](#-abrindo-o-código)
 - [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Desenvolvedor](#-desenvolvedor)
 
 <h1 align="center">
