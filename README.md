@@ -52,6 +52,9 @@ Casamento Zuleika & Ubiratam
 
 Este repositório contém uma página web que documenta e celebra o casamento de Zuleika e Ubiratam. A página é organizada em várias seções, cada uma destacando diferentes momentos e eventos relacionados ao casamento, desde o pré-casamento até a lua de mel.
 
+<img src="https://github.com/EdielOliveira/SiteCasamento/assets/113260177/700998f4-ba58-4e99-b6a7-152b2308d762" />
+
+
 <h1 align="center">
 Visão Geral
 </h1>
