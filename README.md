@@ -89,7 +89,7 @@ Estrutura do Projeto
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/113260177?s=400&u=347f2b3ae130a0f7c84f0946b4278cd2581e8b16&v=4" width="150px;" alt="Foto do Desenvolvedor"/><br>
         <sub>
-          <b>SeuNome</b>
+          <b>Ediel Oliveira</b>
         </sub>
       </a>
     </td>   
